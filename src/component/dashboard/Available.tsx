@@ -1,9 +1,9 @@
-import amazon from '@/assets/platform/Amazon.png'
-import alibaba from '@/assets/platform/Alibaba.png'
-import lazada from '@/assets/platform/Lazada.png'
-import tokopedia from '@/assets/platform/Tokopedia.png'
-import shopee from '@/assets/platform/Shopee.png'
-import tiktok from '@/assets/platform/TikTok.png'
+import amazon from '@/assets/Platform/Amazon.png'
+import alibaba from '@/assets/Platform/Alibaba.png'
+import lazada from '@/assets/Platform/Lazada.png'
+import tokopedia from '@/assets/Platform/Tokopedia.png'
+import shopee from '@/assets/Platform/Shopee.png'
+import tiktok from '@/assets/Platform/Tiktok.png'
 
 function Available() {
     const platforms = [

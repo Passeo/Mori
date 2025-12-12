@@ -2,7 +2,7 @@ import clock from '@/assets/Symbol/Clock.svg'
 import mail from '@/assets/Symbol/Mail.svg'
 import location from '@/assets/Symbol/Location.svg'
 import phone from '@/assets/Symbol/Phone.svg'
-import map from '@/assets/map.png'
+import map from '@/assets/Map.png'
 
 function ContactUs() {
     return (
