@@ -20,7 +20,7 @@ function Available() {
             <div className="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8">
 
                 <div className="text-center space-y-4">
-                    <h3 className="head text-2xl sm:text-3xl md:text-4xl text-black!">
+                    <h3 className="head text-2xl sm:text-3xl md:text-4xl text-black">
                         MORI is now available online!
                     </h3>
                     <p className="desc text-sm sm:text-base md:text-lg max-w-2xl mx-auto">

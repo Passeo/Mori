@@ -17,11 +17,11 @@ function ContactUs() {
         "
             >
                 <div className="w-full lg:w-1/2 font-inter">
-                    <h2 className="head text-foreground text-3xl sm:text-4xl">
+                    <h2 className="head text-black text-3xl sm:text-4xl">
                         Contact Us
                     </h2>
 
-                    <p className="text-xl sm:text-2xl underline mt-6 text-black!">
+                    <p className="text-xl sm:text-2xl underline mt-6">
                         MORI Official Store
                     </p>
 
