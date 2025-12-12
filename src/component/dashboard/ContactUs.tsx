@@ -21,7 +21,7 @@ function ContactUs() {
                         Contact Us
                     </h2>
 
-                    <p className="text-xl sm:text-2xl underline mt-6 text-white!">
+                    <p className="text-xl sm:text-2xl underline mt-6 text-black!">
                         MORI Official Store
                     </p>
 
